@@ -7,7 +7,7 @@
 </h4>
 
 <h4 align="center">
-  Minhas principais Linguagens e Stacks:
+ :speech_balloon: Minhas principais Linguagens e Stacks: :speech_balloon:
 </h4>
 
 <div>
