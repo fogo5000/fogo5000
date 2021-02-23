@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   Ola :blush: meu nome é Lucas :octocat:
-</h2>
+</h3>
 
 <h4 align="center">
   Sou um programador apaixonado pela área de desenvolvimento :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
