@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center">
-  Apenas um programador apaixonado por desenvolver jogos e 'softwares' :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
+  Apenas um programador apaixonado por desenvolver jogos e softwares :computer: Um apreciador de games :video_game: E fã de animes :flower_playing_cards:
 </h3>
 
 <h2></h2>
