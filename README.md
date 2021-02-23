@@ -1,4 +1,6 @@
-### Ola :blush: meu nome é Lucas :octocat:
+<h2 align="center">
+  Ola :blush: meu nome é Lucas :octocat:
+</h2>
 
 <p align="center">
   Sou um programador apaixonado pela área de desenvolvimento 
