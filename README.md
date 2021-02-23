@@ -3,17 +3,17 @@
 </h3>
 
 <h3 align="center">
-  Apenas um programador apaixonado por desenvolver aplicações :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
+  Apenas um programador apaixonado por desenvolver jogos e 'softwares' :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
 </h3>
 
 <h2></h2>
 
 <h3 align="center">
- :speech_balloon: Minhas principais Linguagens e Stacks: :speech_balloon:
+ :speech_balloon: Minhas principais Linguagens e Stacks :speech_balloon:
 </h3>
 
-<div>
-  
+<div align="center">
+  [<img alt="linkedin" src="https://www.linkedin.com/in/lucas-barbosa-rosa/"][linkedin]
 </div>
 
 <br /><br />
