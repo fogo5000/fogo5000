@@ -18,6 +18,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fogo5000&show_icons=true&theme=dark&hide_star=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img aign="rigth" alt="top-Langa" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogo5000&layout=compact&theme=dark" />
+<img aign="right" alt="top-Langa" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogo5000&layout=compact&theme=dark" />
 
 <!--
