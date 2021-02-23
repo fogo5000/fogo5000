@@ -1,5 +1,3 @@
----
-
 <h2 align="center">
   Ola :blush: meu nome é Lucas :octocat:
 </h2>
