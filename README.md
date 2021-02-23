@@ -6,6 +6,8 @@
   Sou um programador apaixonado pela área de desenvolvimento :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
 </h4>
 
+<h2></h2>
+
 <h4 align="center">
  :speech_balloon: Minhas principais Linguagens e Stacks: :speech_balloon:
 </h4>
