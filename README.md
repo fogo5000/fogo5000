@@ -2,15 +2,15 @@
   Ola :blush: meu nome é Lucas :octocat:
 </h3>
 
-<h4 align="center">
+<h3 align="center">
   Sou um programador apaixonado pela área de desenvolvimento :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
-</h4>
+</h3>
 
 <h2></h2>
 
-<h4 align="center">
+<h3 align="center">
  :speech_balloon: Minhas principais Linguagens e Stacks: :speech_balloon:
-</h4>
+</h3>
 
 <div>
   
