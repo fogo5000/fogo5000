@@ -13,7 +13,7 @@
 </h3>
 
 <div align="center">
-  [<img alt="linkedin" src="https://www.linkedin.com/in/lucas-barbosa-rosa/"][linkedin]
+  [<img alt="linkedin" src="https://www.linkedin.com/in/lucas-barbosa-rosa/" />][linkedin]
 </div>
 
 <br /><br />
