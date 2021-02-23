@@ -16,8 +16,8 @@
 
 <br /><br />
 
-<img aign="left" alt="Status" src="https://github-readme-stats.vercel.app/api?username=fogo5000&show_icons=true&theme=dark" />
+<img align="left" alt="Status" src="https://github-readme-stats.vercel.app/api?username=fogo5000&show_icons=true&theme=dark" />
 
-<img aign="right" alt="top-Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogo5000&layout=compact&theme=dark" />
+<img align="right" alt="top-Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogo5000&layout=compact&theme=dark" />
 
 <!--
