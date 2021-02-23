@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center">
-  Sou um programador apaixonado pela área de desenvolvimento :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
+  Apenas um programador apaixonado por desenvolver aplicações :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
 </h3>
 
 <h2></h2>
