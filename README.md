@@ -13,7 +13,7 @@
 </h3>
 
 <div align="center">
-  [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+  <img alt="unity" src"https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/unity.svg" />
 </div>
 
 <br /><br />
