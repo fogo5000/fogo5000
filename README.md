@@ -1,5 +1,8 @@
 ### Ola :blush: meu nome é Lucas :octocat:
 
+<p align="center">
+  Sou um programador apaixonado pela área de desenvolvimento 
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fogo5000&show_icons=true&theme=dark&hide_star=true)](https://github.com/anuraghazra/github-readme-stats)
