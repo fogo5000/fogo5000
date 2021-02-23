@@ -3,17 +3,21 @@
 </h2>
 
 <h4 align="center">
-  Sou um programador apaixonado pela área de desenvolvimento :computer:  Apreciador de jogos :video_game: Fâ de animes :flower_playing_cards:
+  Sou um programador apaixonado pela área de desenvolvimento :computer:  Apreciador de jogos :video_game: Fã de animes :flower_playing_cards:
 </h4>
 
-<br><br>
+<h4 align="center">
+  Minhas principais Linguagens e Stacks:
+</h4>
+
+<div>
+  
+</div>
+
+<br /><br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fogo5000&show_icons=true&theme=dark&hide_star=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="rigth">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fogo5000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-<div>
+<img aign="rigth" alt="top-Langa" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fogo5000&layout=compact&theme=dark" />
 
 <!--
