@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center">
-  Sou um programador apaixonado pela área de desenvolvimento 
+  Sou um programador apaixonado pela área de desenvolvimento :computer:  Apreciador de jogos :video_game: Fâ de animes :flower_playing_cards:
 </h4>
 
 <br><br>
