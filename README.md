@@ -11,7 +11,7 @@
 <h2></h2>
 
 <h3 align="center">
-  Contatos:
+  :fire: Onde me encontrar :fire:
 </h3>
 
 <h3 align="center">
