@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-barbosa-rosa/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-barbosa-rosa/" target="blank">
     <img alt="javascript" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614964284~hmac=604983a4264d6a57c95bd09a79b75d31" width="50px" />
   </a>
-  <img alt="branco" src="https://cdn.hipwallpaper.com/i/68/40/OYQpnX.png" width="20px" />
-  <a href="https://myanimelist.net/profile/fogo5000" target="_blank">
+  <img alt="branco" src="https://cdn.hipwallpaper.com/i/68/40/OYQpnX.png" width="50px" />
+  <a href="https://myanimelist.net/profile/fogo5000" target="blank">
     <img alt="javascript" src="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png" width="50px" />
   </a>
 </div>
