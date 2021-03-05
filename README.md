@@ -1,6 +1,6 @@
 <div align="center">
   <a src="https://www.linkedin.com/in/lucas-barbosa-rosa/">
-    <img alt="javascript" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614964284~hmac=604983a4264d6a57c95bd09a79b75d31" />
+    <img alt="javascript" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614964284~hmac=604983a4264d6a57c95bd09a79b75d31" width="50px" />
   </a>
   <img alt="javascript" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" />
 </div>
