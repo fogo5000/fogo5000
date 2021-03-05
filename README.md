@@ -1,9 +1,24 @@
+<div align="center">
+  <a src="https://www.linkedin.com/in/lucas-barbosa-rosa/">
+    <img alt="javascript" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614964284~hmac=604983a4264d6a57c95bd09a79b75d31" />
+  </a>
+  <img alt="javascript" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" />
+</div>
+
+<h2></h2>
+
 <h3 align="center">
   Ola :blush: meu nome é Lucas :octocat:
 </h3>
 
 <h3 align="center">
   Apenas um programador apaixonado por desenvolver jogos e softwares :computer: Um apreciador de games :video_game: E fã de animes :flower_playing_cards:
+</h3>
+
+<h2></h2>
+
+<h3 align="center">
+  Contato: lucaslucas2008@gmail.com
 </h3>
 
 <h2></h2>
