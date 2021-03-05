@@ -11,7 +11,11 @@
 <h2></h2>
 
 <h3 align="center">
-  Contato: lucaslucas2008@gmail.com
+  Contatos:
+</h3>
+
+<h3 align="center">
+  lucaslucas2008@gmail.com
 </h3>
 
 <div align="center">
