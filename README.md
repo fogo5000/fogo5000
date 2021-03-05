@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/lucas-barbosa-rosa/" target="_blank">
     <img alt="javascript" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614964284~hmac=604983a4264d6a57c95bd09a79b75d31" width="50px" />
   </a>
-  <a border="20px">
+  <a style="border-left:20px">
   <a href="https://myanimelist.net/profile/fogo5000" target="_blank">
     <img alt="javascript" src="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png" width="50px" />
   </a>
